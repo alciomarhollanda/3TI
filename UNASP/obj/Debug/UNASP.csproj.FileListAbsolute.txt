@@ -1,0 +1,10 @@
+C:\Users\alciomar.hollanda\Desktop\3TI\3TI\UNASP\bin\Debug\UNASP.exe.config
+C:\Users\alciomar.hollanda\Desktop\3TI\3TI\UNASP\bin\Debug\UNASP.exe
+C:\Users\alciomar.hollanda\Desktop\3TI\3TI\UNASP\bin\Debug\UNASP.pdb
+C:\Users\alciomar.hollanda\Desktop\3TI\3TI\UNASP\obj\Debug\UNASP.csprojResolveAssemblyReference.cache
+C:\Users\alciomar.hollanda\Desktop\3TI\3TI\UNASP\obj\Debug\UNASP.Properties.Resources.resources
+C:\Users\alciomar.hollanda\Desktop\3TI\3TI\UNASP\obj\Debug\UNASP.csproj.GenerateResource.Cache
+C:\Users\alciomar.hollanda\Desktop\3TI\3TI\UNASP\obj\Debug\UNASP.csproj.CoreCompileInputs.cache
+C:\Users\alciomar.hollanda\Desktop\3TI\3TI\UNASP\obj\Debug\UNASP.exe
+C:\Users\alciomar.hollanda\Desktop\3TI\3TI\UNASP\obj\Debug\UNASP.pdb
+C:\Users\alciomar.hollanda\Desktop\3TI\3TI\UNASP\obj\Debug\UNASP.Form1.resources
