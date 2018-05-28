@@ -19,13 +19,7 @@ namespace UNASP
 
         private void button1_Click(object sender, EventArgs e)
         {
-            double num1 = Convert.ToDouble(txtNum1.Text);
-            
-            double num2 = Convert.ToDouble(txtNum2.Text);
-
-            double soma = num1 + num2;
-
-            MessageBox.Show("A soma dos números digitados: "+soma);
+          
         }
     }
 }
